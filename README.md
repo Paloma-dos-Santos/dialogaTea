@@ -54,21 +54,17 @@ O projeto foi desenvolvido com base em práticas completas de engenharia de soft
 ---
 
 ## 🧩 Diagramas do Sistema 
-(serão adicionados posteriormente)
 ### Casos de Uso
-![Casos de Uso](documentacao/diagramas/diagrama-uso.jpg)
+![Casos de Uso](diagramas/diagrama-uso.jpg)
 
 ### Diagrama de Classes
-![Classes](documentacao/diagramas/diagrama-classe.jpg)
+![Classes](diagramas/diagrama-classe.jpg)
 
 ### Diagrama de Atividades
-![Atividades](documentacao/diagramas/diagrama-atividades.jpg)
+![Atividades](diagramas/diagrama-atividades.jpg)
 
 ### Máquina de Estados
-![Máquina de Estados](documentacao/diagramas/diagrama-maquina-estado.png)
-
-### Diagramas de Sequência
-![Sequência](documentacao/diagramas/sequencia.jpg)
+![Máquina de Estados](diagramas/diagrama-maquina-estado.png)
 ---
 
 ## 🎨 Protótipo da Interface
