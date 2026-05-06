@@ -56,16 +56,20 @@ O projeto foi desenvolvido com base em práticas completas de engenharia de soft
 ## 🧩 Diagramas do Sistema 
 (serão adicionados posteriormente)
 ### Casos de Uso
-![Use Case](documentacao/diagramas/use-case.jpg)
+![Casos de Uso](documentacao/diagramas/diagrama-uso.jpg)
 
 ### Diagrama de Classes
-![Classes](documentacao/diagramas/classes.jpg)
+![Classes](documentacao/diagramas/diagrama-classe.jpg)
+
+### Diagrama de Atividades
+![Atividades](documentacao/diagramas/diagrama-atividades.jpg)
+
+### Máquina de Estados
+![Máquina de Estados](documentacao/diagramas/diagrama-maquina-estado.png)
 
 ### Diagramas de Sequência
 ![Sequência](documentacao/diagramas/sequencia.jpg)
 
-### Diagrama de Atividades
-![Atividades](documentacao/diagramas/atividades.jpg)
 
 ### Máquina de Estados
 ![Estados](documentacao/diagramas/estados.png)
