@@ -69,11 +69,6 @@ O projeto foi desenvolvido com base em práticas completas de engenharia de soft
 
 ### Diagramas de Sequência
 ![Sequência](documentacao/diagramas/sequencia.jpg)
-
-
-### Máquina de Estados
-![Estados](documentacao/diagramas/estados.png)
-
 ---
 
 ## 🎨 Protótipo da Interface
